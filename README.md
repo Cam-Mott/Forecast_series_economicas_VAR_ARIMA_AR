@@ -14,4 +14,8 @@ Se realizaron 3 test de hipótesis: Test Dickey-Fuller Aumentado para determinar
 
 Todas las pruebas y métricas se presentan numérica y gráficamente, a fin de visualizar y comparar las salidas con mayor facilidad.
 
+<img width="1360" height="296" alt="image" src="https://github.com/user-attachments/assets/7afc24c1-a222-4819-a0a8-c828bc2cf4dc" />
+
+
+
 
