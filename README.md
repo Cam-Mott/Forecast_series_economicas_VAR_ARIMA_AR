@@ -1,5 +1,5 @@
 # Forecast_series_economicas_VAR_ARIMA_AR
-##**Introducción**
+## **Introducción**
 ---
 EMAE (Estimador Mensual de Actividad Económica), IS (Índice de Salarios) e IPC (Índice de Precios al Consumidor) son 3 variables que pueden aportar mucha información sobre la economía de un país: indican el desempeño de la actividad económica en general, la dinámica de los salarios y el comportamiento de los precios de bienes y servicios. Reesulta entonces de interes analizar y evaluar la construcción de modelos de series de tiempo que permitan anticipar su comportamiento futuro. Si bien el foco se centrara el predecir el IPC, en el presente repositorio se abordan los famosos modelos VAR, ARIMA y AR, la capacidad predictiva de cada uno, sus limitaciones y supuestos. El objetivo en sí no es construir un modelo óptimo; se busca presentar las series de tiempo, el funcionamiento de los modelos y algunas de las pruebas que podemos realizar sobre los mismos a fin de determinar si resultan adecuados o no.
 
