@@ -5,7 +5,7 @@ EMAE (Estimador Mensual de Actividad Económica), IS (Índice de Salarios) e IPC
 
 ## **Dataset**
 ---
-Se trabajar con las variaciones porcentuales del EMAE, IS e IPC, equivalentes al crecimiento económico, el incremento de salarios y la inflación respectivamente. Los datos provienen del INDEC y sobre los mismos se calcularon las variaciones porcentuales. El periodo trabajado va desde el 02/2004 al 02/2010, constituyendo un total de 74 registros. Tras importar los datos, se trabaja el dataset para aislar el componente estacional de las series, a fin de evaluar posteriomente su estacionariedad.
+Se trabajar con las variaciones porcentuales del EMAE, IS e IPC, equivalentes al crecimiento económico, el incremento de salarios y la inflación respectivamente. Los datos provienen del INDEC y sobre los mismos se calcularon las variaciones porcentuales. El periodo trabajado va desde el 02/2004 al 02/2010, constituyendo un total de 73 registros. Tras importar los datos, se trabaja el dataset para aislar el componente estacional de las series, a fin de evaluar posteriomente su estacionariedad.
 
 ## **Test de hipótesis y métricas**
 ---
